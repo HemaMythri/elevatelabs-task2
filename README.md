@@ -2,9 +2,11 @@
 
 ## Project Overview
 
-This project is a responsive To-Do List web application developed using HTML5, CSS3, and JavaScript as part of a Web Development Internship Task.
+This project is a responsive To-Do List web application developed using HTML5, CSS3 and JavaScript as part of a Web Development Internship Task.
 
-The application allows users to add, complete, delete, and manage tasks efficiently through an interactive user interface.
+The application allows users to add, complete, delete and manage daily tasks through an interactive and user-friendly interface.
+
+---
 
 ## Features
 
@@ -12,10 +14,11 @@ The application allows users to add, complete, delete, and manage tasks efficien
 - Mark tasks as completed
 - Delete individual tasks
 - Clear all tasks
-- Task counter and completed task counter
-- Local Storage support (tasks persist after page refresh)
+- Task counter (Total Tasks / Completed Tasks)
 - Responsive design for desktop and mobile devices
-- Dynamic UI updates using JavaScript DOM manipulation
+- Modern UI with hover effects and smooth styling
+
+---
 
 ## Technologies Used
 
@@ -24,21 +27,24 @@ The application allows users to add, complete, delete, and manage tasks efficien
 - JavaScript (ES6)
 - Flexbox
 - Media Queries
-- Local Storage API
+
+---
 
 ## Project Structure
 
 ```text
-elevatelabs-task2/
+Task 2-Task Manager/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── screenshots/
     ├── desktop-view.png
-    ├── mobile-view-1.png
-    └── mobile-view-2.png
+    ├── mobile-view(1).png
+    └── mobile-view(2).png
 ```
+
+---
 
 ## Learning Outcomes
 
@@ -46,12 +52,14 @@ Through this project, I gained hands-on experience with:
 
 - DOM Manipulation
 - Event Handling
-- Dynamic Content Creation
-- Local Storage
+- JavaScript Functions
+- Dynamic HTML Element Creation
 - Responsive Web Design
-- JavaScript Functions and Arrays
-- User Interface Design
+- CSS Flexbox Layout
+- GitHub Project Management
+
+---
 
 ## Author
 
-S.Ganga Hema Mythri
+S. Ganga Hema Mythri
