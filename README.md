@@ -34,8 +34,6 @@ elevatelabs-task2/
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
-│
 └── screenshots/
     ├── desktop-view.png
     ├── mobile-view-1.png
